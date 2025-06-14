@@ -1,0 +1,3 @@
+- This microservice handles user registration and user login
+- Implemented JWT authentication as part of Spring Security
+- Using google postgresql instance as cloud storage for user data
