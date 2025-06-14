@@ -1,0 +1,10 @@
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/UserServiceApplication.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/configuration/SecurityConfig.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/controller/UserController.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/model/CustomUserDetails.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/model/EmailRegistrationRequest.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/model/User.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/model/UserDto.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/repository/UserRepository.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/service/CustomUserDetailsService.java
+/Users/roshan/Documents/siri-scope/backend/user-service/src/main/java/com/siriscope/userservice/service/UserService.java

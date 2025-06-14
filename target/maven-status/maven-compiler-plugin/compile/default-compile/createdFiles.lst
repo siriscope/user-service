@@ -1,0 +1,10 @@
+com/siriscope/userservice/service/CustomUserDetailsService.class
+com/siriscope/userservice/repository/UserRepository.class
+com/siriscope/userservice/model/EmailRegistrationRequest.class
+com/siriscope/userservice/model/CustomUserDetails.class
+com/siriscope/userservice/controller/UserController.class
+com/siriscope/userservice/model/User.class
+com/siriscope/userservice/model/UserDto.class
+com/siriscope/userservice/configuration/SecurityConfig.class
+com/siriscope/userservice/UserServiceApplication.class
+com/siriscope/userservice/service/UserService.class
